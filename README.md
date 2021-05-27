@@ -1,1 +1,1 @@
-# Dice.pygame
+# python_game
